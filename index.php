@@ -3,17 +3,19 @@
 <html>
 	<head>
 		<title>CPAP Medical Supplies and Services - Military CPAP Supplies - Jacksonville FL</title>
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-		<meta name="description" content="CPAP supplies for Medicare beneficiaries, active duty military, retired military and military families.">
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+		<meta name="description" content="CPAP supplies for active duty military, retired military, military families and Medicare beneficiaries." />
 		<style>
 			body {
 				font-family: arial;
 				font-size:15px;
 				color: #333333;
 				background: #333333 url(images/diagmonds.png) repeat 0 0;
+				text-align: center;
 			}
 
 			#container {
+				text-align: left;
 				margin: 1.6em auto;
 				width: 900px;
 				position: relative;
@@ -91,8 +93,8 @@
 			</h1>
 			<div id="nav">
 				<ul>
-					<li class="number"><span class="bold">Phone:</span> 904.281.2727</li>
-					<li class="number"><span class="bold">Fax:</span> 904.281.0444</li>
+					<li class="number"><span class="bold">Phone:</span> 855.281.2727</li>
+					<li class="number"><span class="bold">Fax:</span> 855.773.0444</li>
 					<li class="center bold">Mailing Address:</li>
 					<li>6950 Philips Highway #36<br />Jacksonville, FL 32216</li>
 				</ul>
@@ -104,8 +106,8 @@
 					We provide compassionate, high quality care that improves the overall health and lifestyle of our patients and their families by working together in a partnership with our physicians and other regional healthcare providers.
 				</div>
 				<div class="article">
-					<h2>Sleep apnea supplies for TRICARE and Medicare beneficiares</h2>
-					We have provided sleep apnea devices to hundreds of active duty service members(ADSM), retired service members, and military family members. We have given each patient personal service and followed up to insure compliance and the patient's well-being.<br /><br />
+					<h2>Sleep apnea supplies for TRICARE and Medicare beneficiares since 2002</h2>
+					We have provided sleep apnea devices to hundreds of active duty service members(ADSM), retired service members, and military family members since 2002. We have given each patient personal service and followed up to insure compliance and the patient's well-being.<br /><br />
 					After receiving the referral from the military treatment facility, TRICARE or your physician, we will make an appointment with you, at your convenience. We can visit you in your home(or you can come to our office, if you prefer). The education and setup usually takes around 45 minutes to an hour. We will answer any questions you may have and also supply you with manuals and most importantly, our 24/7 on-call phone number.
 				</div>
 				<div class="article">
