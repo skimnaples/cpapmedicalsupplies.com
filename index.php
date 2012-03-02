@@ -5,6 +5,21 @@
 		<title>CPAP Medical Supplies and Services - Military CPAP Supplies - Jacksonville FL</title>
 		<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
 		<meta name="description" content="CPAP supplies for active duty military, retired military, military families and Medicare beneficiaries." />
+		
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-25746046-2']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
+
 		<style>
 			body {
 				font-family: arial;
@@ -106,9 +121,11 @@
 					We provide compassionate, high quality care that improves the overall health and lifestyle of our patients and their families by working together in a partnership with our physicians and other regional healthcare providers.
 				</div>
 				<div class="article">
-					<h2>Sleep apnea supplies for TRICARE and Medicare beneficiares since 2002</h2>
+					<h2>CPAP Medical accepts TRICARE&reg; and Medicare insurance</h2>
 					We have provided sleep apnea devices to hundreds of active duty service members(ADSM), retired service members, and military family members since 2002. We have given each patient personal service and followed up to insure compliance and the patient's well-being.<br /><br />
-					After receiving the referral from the military treatment facility, TRICARE or your physician, we will make an appointment with you, at your convenience. We can visit you in your home(or you can come to our office, if you prefer). The education and setup usually takes around 45 minutes to an hour. We will answer any questions you may have and also supply you with manuals and most importantly, our 24/7 on-call phone number.
+					After receiving the referral from the military treatment facility, branch clinic or your physician, we will make an appointment with you, at your convenience. We can visit you in your home(or you can come to our office, if you prefer). The education and setup usually takes around 45 minutes to an hour. We will answer any questions you may have and also supply you with manuals and most importantly, our 24/7 on-call phone number.
+					<br /><br />
+					<i>"TRICARE" is a registered trademark of the TRICARE Management Activity. All rights reserved.</i>
 				</div>
 				<div class="article">
 					<img src="images/comfort-gel-blue.jpg" alt="Philips Respironics Comfort Gel Blue CPAP Mask" width="200px" height="150px" class="left" />
@@ -129,6 +146,7 @@
 					<h2>Our location in Jacksonville, Florida</h2>
 					<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=CPAP+Medical+Supplies+and+Services,+Inc.,+Jacksonville,+FL&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=60.894251,49.482422&amp;vpsrc=6&amp;ie=UTF8&amp;hq=CPAP+Medical+Supplies+and+Services,+Inc.,&amp;hnear=Jacksonville,+Duval,+Florida&amp;t=h&amp;ll=30.307096,-81.603699&amp;spn=0.284546,0.439453&amp;z=11&amp;iwloc=A&amp;output=embed"></iframe>
 				</div>
+				
 				<div id="footer">
 					<ul>
 						<li><span class="bold">Phone:</span> 904.281.2727</li>
